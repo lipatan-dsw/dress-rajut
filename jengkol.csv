@@ -1,5 +1,5 @@
-title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,image1,image2,image3,image4,image5,product,price,hargajual,profit,sku,kondisi
-Jual Sweater Rajut / Knit Casual Wanita - WD 021 Murah,wd-021,"
+title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,image1,image2,image3,image4,image5,product,price,hargadropship,minimalprice,sku,kondisi
+Jual Knit Casual Wanita - RJ 011 Murah,rj-011,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -24,7 +24,7 @@ Jual Sweater Rajut / Knit Casual Wanita - WD 021 Murah,wd-021,"
           </a>
          </label>
         </span>
-        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        {% include dropship-login.html %} 
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include shareit.html %}
@@ -47,7 +47,7 @@ Jual Sweater Rajut / Knit Casual Wanita - WD 021 Murah,wd-021,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sweater Rajut / Knit Casual Wanita - WD 021 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Rajut ini terbuat dari bahan RAJUT.<br/>Kode : WD 021<br/>Warna : MERAH<br/>Bahan : RAJUT<br/>Ukuran : M ~ L<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Knit Casual Wanita - RJ 011 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. <br/>Kode : RJ 011<br/>Warna : CREAM<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 500 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -60,8 +60,8 @@ Jual Sweater Rajut / Knit Casual Wanita - WD 021 Murah,wd-021,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2018-02-25,html,dress-rajut,catenzo,dress-rajut,catenzo,"Dress Rajut Bahan RAJUT, Ukuran M ~ L, Warna MERAH",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/wd-021.jpg,-/-,-/-,-/-,-/-,-/-,Sweater Rajut / Knit Casual Wanita - WD 021,Rp 94.900,Rp 109.900,Rp 15.000,WD 021,Baru
-Jual Sweater Rajut / Knit Casual Wanita - RJ 008 Murah,rj-008,"
+     </div><!--/category-tab-->",2019-01-16,html,dress-rajut,catenzo,dress-rajut,catenzo,"Dress Rajut Bahan RAJUT, Warna CREAM, Size AS",https://images.lipatan.com/katalog-catenzo-2019/foto-produk-satuan/rj-011.jpg,-/-,-/-,-/-,-/-,-/-,Knit Casual Wanita - RJ 011,Rp 131.900,Rp 107.900,Rp 118.900,RJ 011,Baru
+Jual Knit Casual Wanita - ZM 102 Murah,zm-102,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -86,7 +86,7 @@ Jual Sweater Rajut / Knit Casual Wanita - RJ 008 Murah,rj-008,"
           </a>
          </label>
         </span>
-        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        {% include dropship-login.html %} 
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include shareit.html %}
@@ -109,7 +109,7 @@ Jual Sweater Rajut / Knit Casual Wanita - RJ 008 Murah,rj-008,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sweater Rajut / Knit Casual Wanita - RJ 008 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Rajut ini terbuat dari bahan RAJUT.<br/>Kode : RJ 008<br/>Warna : PINK<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Knit Casual Wanita - ZM 102 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. <br/>Kode : ZM 102<br/>Warna : CREAM<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 500 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -122,8 +122,8 @@ Jual Sweater Rajut / Knit Casual Wanita - RJ 008 Murah,rj-008,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2018-02-25,html,dress-rajut,catenzo,dress-rajut,catenzo,"Dress Rajut Bahan RAJUT, Ukuran AS, Warna PINK",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/rj-008.jpg,-/-,-/-,-/-,-/-,-/-,Sweater Rajut / Knit Casual Wanita - RJ 008,Rp 84.900,Rp 97.900,Rp 13.000,RJ 008,Baru
-Jual Sweater Rajut / Knit Casual Wanita - ZM 091 Murah,zm-091,"
+     </div><!--/category-tab-->",2019-01-16,html,dress-rajut,catenzo,dress-rajut,catenzo,"Dress Rajut Bahan RAJUT, Warna CREAM, Size AS",https://images.lipatan.com/katalog-catenzo-2019/foto-produk-satuan/zm-102.jpg,-/-,-/-,-/-,-/-,-/-,Knit Casual Wanita - ZM 102,Rp 129.900,Rp 105.900,Rp 116.900,ZM 102,Baru
+Jual Knit Lengan Pendek Wanita - RJ 013 Murah,rj-013,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -148,7 +148,7 @@ Jual Sweater Rajut / Knit Casual Wanita - ZM 091 Murah,zm-091,"
           </a>
          </label>
         </span>
-        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        {% include dropship-login.html %} 
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include shareit.html %}
@@ -171,7 +171,7 @@ Jual Sweater Rajut / Knit Casual Wanita - ZM 091 Murah,zm-091,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sweater Rajut / Knit Casual Wanita - ZM 091 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Rajut ini terbuat dari bahan RAJUT.<br/>Kode : ZM 091<br/>Warna : MARUN<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Knit Lengan Pendek Wanita - RJ 013 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. <br/>Kode : RJ 013<br/>Warna : HITAM PUTIH<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 500 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -184,8 +184,8 @@ Jual Sweater Rajut / Knit Casual Wanita - ZM 091 Murah,zm-091,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2018-02-25,html,dress-rajut,catenzo,dress-rajut,catenzo,"Dress Rajut Bahan RAJUT, Ukuran AS, Warna MARUN",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/zm-091.jpg,-/-,-/-,-/-,-/-,-/-,Sweater Rajut / Knit Casual Wanita - ZM 091,Rp 94.900,Rp 109.900,Rp 15.000,ZM 091,Baru
-Jual Sweater Rajut / Knit Casual Wanita - ZM 080 Murah,zm-080,"
+     </div><!--/category-tab-->",2019-01-16,html,dress-rajut,catenzo,dress-rajut,catenzo,"Dress Rajut Bahan RAJUT, Warna HITAM PUTIH, Size AS",https://images.lipatan.com/katalog-catenzo-2019/foto-produk-satuan/rj-013.jpg,-/-,-/-,-/-,-/-,-/-,Knit Lengan Pendek Wanita - RJ 013,Rp 139.900,Rp 113.900,Rp 125.900,RJ 013,Baru
+Jual Knit Casual Wanita - ZM 101 Murah,zm-101,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -210,7 +210,7 @@ Jual Sweater Rajut / Knit Casual Wanita - ZM 080 Murah,zm-080,"
           </a>
          </label>
         </span>
-        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        {% include dropship-login.html %} 
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include shareit.html %}
@@ -233,7 +233,7 @@ Jual Sweater Rajut / Knit Casual Wanita - ZM 080 Murah,zm-080,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sweater Rajut / Knit Casual Wanita - ZM 080 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Rajut ini terbuat dari bahan RAJUT.<br/>Kode : ZM 080<br/>Warna : CREAM<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Knit Casual Wanita - ZM 101 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. <br/>Kode : ZM 101<br/>Warna : TOSKA<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 500 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -246,8 +246,8 @@ Jual Sweater Rajut / Knit Casual Wanita - ZM 080 Murah,zm-080,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2018-02-25,html,dress-rajut,catenzo,dress-rajut,catenzo,"Dress Rajut Bahan RAJUT, Ukuran AS, Warna CREAM",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/zm-080.jpg,-/-,-/-,-/-,-/-,-/-,Sweater Rajut / Knit Casual Wanita - ZM 080,Rp 94.900,Rp 109.900,Rp 15.000,ZM 080,Baru
-Jual Sweater Rajut / Knit Casual Wanita - ZM 097 Murah,zm-097,"
+     </div><!--/category-tab-->",2019-01-16,html,dress-rajut,catenzo,dress-rajut,catenzo,"Dress Rajut Bahan RAJUT, Warna TOSKA, Size AS",https://images.lipatan.com/katalog-catenzo-2019/foto-produk-satuan/zm-101.jpg,-/-,-/-,-/-,-/-,-/-,Knit Casual Wanita - ZM 101,Rp 129.900,Rp 105.900,Rp 116.900,ZM 101,Baru
+Jual Knit Casual Wanita - ZM 080 Murah,zm-080,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -272,7 +272,7 @@ Jual Sweater Rajut / Knit Casual Wanita - ZM 097 Murah,zm-097,"
           </a>
          </label>
         </span>
-        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        {% include dropship-login.html %} 
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include shareit.html %}
@@ -295,7 +295,7 @@ Jual Sweater Rajut / Knit Casual Wanita - ZM 097 Murah,zm-097,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sweater Rajut / Knit Casual Wanita - ZM 097 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Rajut ini terbuat dari bahan RAJUT.<br/>Kode : ZM 097<br/>Warna : MARUN<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Knit Casual Wanita - ZM 080 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. <br/>Kode : ZM 080<br/>Warna : CREAM<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 500 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -308,8 +308,8 @@ Jual Sweater Rajut / Knit Casual Wanita - ZM 097 Murah,zm-097,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2018-02-25,html,dress-rajut,catenzo,dress-rajut,catenzo,"Dress Rajut Bahan RAJUT, Ukuran AS, Warna MARUN",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/zm-097.jpg,-/-,-/-,-/-,-/-,-/-,Sweater Rajut / Knit Casual Wanita - ZM 097,Rp 98.900,Rp 113.900,Rp 15.000,ZM 097,Baru
-Jual Sweater Rajut / Knit Casual Wanita - RJ 011 Murah,rj-011,"
+     </div><!--/category-tab-->",2019-01-16,html,dress-rajut,catenzo,dress-rajut,catenzo,"Dress Rajut Bahan RAJUT, Warna CREAM, Size AS",https://images.lipatan.com/katalog-catenzo-2019/foto-produk-satuan/zm-080.jpg,-/-,-/-,-/-,-/-,-/-,Knit Casual Wanita - ZM 080,Rp 129.900,Rp 105.900,Rp 116.900,ZM 080,Baru
+Jual Knit Casual Wanita - ZM 097 Murah,zm-097,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -334,7 +334,7 @@ Jual Sweater Rajut / Knit Casual Wanita - RJ 011 Murah,rj-011,"
           </a>
          </label>
         </span>
-        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        {% include dropship-login.html %} 
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include shareit.html %}
@@ -357,7 +357,7 @@ Jual Sweater Rajut / Knit Casual Wanita - RJ 011 Murah,rj-011,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sweater Rajut / Knit Casual Wanita - RJ 011 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Rajut ini terbuat dari bahan RAJUT.<br/>Kode : RJ 011<br/>Warna : COKLAT<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 800 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Knit Casual Wanita - ZM 097 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. <br/>Kode : ZM 097<br/>Warna : MARUN<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 450 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -370,8 +370,8 @@ Jual Sweater Rajut / Knit Casual Wanita - RJ 011 Murah,rj-011,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2018-02-25,html,dress-rajut,catenzo,dress-rajut,catenzo,"Dress Rajut Bahan RAJUT, Ukuran AS, Warna COKLAT",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/rj-011.jpg,-/-,-/-,-/-,-/-,-/-,Sweater Rajut / Knit Casual Wanita - RJ 011,Rp 100.900,Rp 116.900,Rp 16.000,RJ 011,Baru
-Jual Sweater Rajut / Knit Casual Wanita - RZM 105 Murah,rzm-105,"
+     </div><!--/category-tab-->",2019-01-16,html,dress-rajut,catenzo,dress-rajut,catenzo,"Dress Rajut Bahan RAJUT, Warna MARUN, Size AS",https://images.lipatan.com/katalog-catenzo-2019/foto-produk-satuan/zm-097.jpg,-/-,-/-,-/-,-/-,-/-,Knit Casual Wanita - ZM 097,Rp 132.900,Rp 108.900,Rp 119.900,ZM 097,Baru
+Jual Knit Casual Wanita - ZM 103 Murah,zm-103,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -396,7 +396,7 @@ Jual Sweater Rajut / Knit Casual Wanita - RZM 105 Murah,rzm-105,"
           </a>
          </label>
         </span>
-        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        {% include dropship-login.html %} 
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include shareit.html %}
@@ -419,7 +419,7 @@ Jual Sweater Rajut / Knit Casual Wanita - RZM 105 Murah,rzm-105,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sweater Rajut / Knit Casual Wanita - RZM 105 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Rajut ini terbuat dari bahan RAJUT.<br/>Kode : RZM 105<br/>Warna : PINK<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 800 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Knit Casual Wanita - ZM 103 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. <br/>Kode : ZM 103<br/>Warna : HITAM<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 500 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -432,8 +432,8 @@ Jual Sweater Rajut / Knit Casual Wanita - RZM 105 Murah,rzm-105,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2018-02-26,html,dress-rajut,raindoz,dress-rajut,raindoz,"Dress Rajut Bahan RAJUT, Ukuran AS, Warna PINK",https://images.lipatan.com/katalog-raindoz-2018/foto-produk-satuan/rzm-105.jpg,-/-,-/-,-/-,-/-,-/-,Sweater Rajut / Knit Casual Wanita - RZM 105,Rp 94.900,Rp 109.900,Rp 15.000,RZM 105,Baru
-Jual Sweater Rajut / Knit Casual Wanita - RZM 090 Murah,rzm-090,"
+     </div><!--/category-tab-->",2019-01-16,html,dress-rajut,catenzo,dress-rajut,catenzo,"Dress Rajut Bahan RAJUT, Warna HITAM, Size AS",https://images.lipatan.com/katalog-catenzo-2019/foto-produk-satuan/zm-103.jpg,-/-,-/-,-/-,-/-,-/-,Knit Casual Wanita - ZM 103,Rp 129.900,Rp 105.900,Rp 116.900,ZM 103,Baru
+Jual Knit Casual Wanita - ZM 087 Murah,zm-087,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -458,7 +458,7 @@ Jual Sweater Rajut / Knit Casual Wanita - RZM 090 Murah,rzm-090,"
           </a>
          </label>
         </span>
-        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        {% include dropship-login.html %} 
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include shareit.html %}
@@ -481,7 +481,7 @@ Jual Sweater Rajut / Knit Casual Wanita - RZM 090 Murah,rzm-090,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sweater Rajut / Knit Casual Wanita - RZM 090 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Rajut ini terbuat dari bahan RAJUT.<br/>Kode : RZM 090<br/>Warna : ORANGE KOMBINASI<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 800 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Knit Casual Wanita - ZM 087 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. <br/>Kode : ZM 087<br/>Warna : ABU ABU<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 700 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -494,8 +494,8 @@ Jual Sweater Rajut / Knit Casual Wanita - RZM 090 Murah,rzm-090,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2018-02-26,html,dress-rajut,raindoz,dress-rajut,raindoz,"Dress Rajut Bahan RAJUT, Ukuran AS, Warna ORANGE KOMBINASI",https://images.lipatan.com/katalog-raindoz-2018/foto-produk-satuan/rzm-090.jpg,-/-,-/-,-/-,-/-,-/-,Sweater Rajut / Knit Casual Wanita - RZM 090,Rp 102.900,Rp 118.900,Rp 16.000,RZM 090,Baru
-Jual Sweater Rajut / Knit Casual Wanita - RZM 106 Murah,rzm-106,"
+     </div><!--/category-tab-->",2019-01-16,html,dress-rajut,catenzo,dress-rajut,catenzo,"Dress Rajut Bahan RAJUT, Warna ABU ABU, Size AS",https://images.lipatan.com/katalog-catenzo-2019/foto-produk-satuan/zm-087.jpg,-/-,-/-,-/-,-/-,-/-,Knit Casual Wanita - ZM 087,Rp 137.900,Rp 112.900,Rp 123.900,ZM 087,Baru
+Jual Knit Casual Wanita - RZM 120 Murah,rzm-120,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -520,7 +520,7 @@ Jual Sweater Rajut / Knit Casual Wanita - RZM 106 Murah,rzm-106,"
           </a>
          </label>
         </span>
-        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        {% include dropship-login.html %} 
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include shareit.html %}
@@ -543,7 +543,7 @@ Jual Sweater Rajut / Knit Casual Wanita - RZM 106 Murah,rzm-106,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sweater Rajut / Knit Casual Wanita - RZM 106 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Rajut ini terbuat dari bahan RAJUT.<br/>Kode : RZM 106<br/>Warna : MARUN<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 800 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Knit Casual Wanita - RZM 120 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. <br/>Kode : RZM 120<br/>Warna : PINK<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 800 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -556,8 +556,8 @@ Jual Sweater Rajut / Knit Casual Wanita - RZM 106 Murah,rzm-106,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2018-02-26,html,dress-rajut,raindoz,dress-rajut,raindoz,"Dress Rajut Bahan RAJUT, Ukuran AS, Warna MARUN",https://images.lipatan.com/katalog-raindoz-2018/foto-produk-satuan/rzm-106.jpg,-/-,-/-,-/-,-/-,-/-,Sweater Rajut / Knit Casual Wanita - RZM 106,Rp 94.900,Rp 109.900,Rp 15.000,RZM 106,Baru
-Jual Sweater Rajut / Knit Casual Wanita - RZM 095 Murah,rzm-095,"
+     </div><!--/category-tab-->",2019-01-17,html,dress-rajut,raindoz,dress-rajut,raindoz,"Dress Rajut Bahan RAJUT, Warna PINK, Size AS",https://images.lipatan.com/katalog-raindoz-2019/foto-produk-satuan/rzm-120.jpg,-/-,-/-,-/-,-/-,-/-,Knit Casual Wanita - RZM 120,Rp 128.900,Rp 104.900,Rp 115.900,RZM 120,Baru
+Jual Knit Casual Wanita - RZM 116 Murah,rzm-116,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -582,7 +582,7 @@ Jual Sweater Rajut / Knit Casual Wanita - RZM 095 Murah,rzm-095,"
           </a>
          </label>
         </span>
-        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        {% include dropship-login.html %} 
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include shareit.html %}
@@ -605,7 +605,7 @@ Jual Sweater Rajut / Knit Casual Wanita - RZM 095 Murah,rzm-095,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sweater Rajut / Knit Casual Wanita - RZM 095 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Rajut ini terbuat dari bahan RAJUT.<br/>Kode : RZM 095<br/>Warna : CREAM<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 800 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Knit Casual Wanita - RZM 116 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. <br/>Kode : RZM 116<br/>Warna : COKLAT<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 800 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -618,4 +618,128 @@ Jual Sweater Rajut / Knit Casual Wanita - RZM 095 Murah,rzm-095,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2018-02-26,html,dress-rajut,raindoz,dress-rajut,raindoz,"Dress Rajut Bahan RAJUT, Ukuran AS, Warna CREAM",https://images.lipatan.com/katalog-raindoz-2018/foto-produk-satuan/rzm-095.jpg,-/-,-/-,-/-,-/-,-/-,Sweater Rajut / Knit Casual Wanita - RZM 095,Rp 102.900,Rp 118.900,Rp 16.000,RZM 095,Baru
+     </div><!--/category-tab-->",2019-01-17,html,dress-rajut,raindoz,dress-rajut,raindoz,"Dress Rajut Bahan RAJUT, Warna COKLAT, Size AS",https://images.lipatan.com/katalog-raindoz-2019/foto-produk-satuan/rzm-116.jpg,-/-,-/-,-/-,-/-,-/-,Knit Casual Wanita - RZM 116,Rp 124.900,Rp 100.900,Rp 111.900,RZM 116,Baru
+Jual Knit Panjang Wanita - RZM 095 Murah,rzm-095,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
+          </a>
+         </label>
+        </span>
+        {% include dropship-login.html %} 
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include shareit.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Knit Panjang Wanita - RZM 095 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. <br/>Kode : RZM 095<br/>Warna : CREAM<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 700 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         Gudang : WRH-1<br>
+         Lokasi : Bandung</p>
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2019-01-17,html,dress-rajut,raindoz,dress-rajut,raindoz,"Dress Rajut Bahan RAJUT, Warna CREAM, Size AS",https://images.lipatan.com/katalog-raindoz-2019/foto-produk-satuan/rzm-095.jpg,-/-,-/-,-/-,-/-,-/-,Knit Panjang Wanita - RZM 095,Rp 138.900,Rp 112.900,Rp 124.900,RZM 095,Baru
+Jual Knit Casual Wanita - RZM 090 Murah,rzm-090,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
+          </a>
+         </label>
+        </span>
+        {% include dropship-login.html %} 
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include shareit.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Knit Casual Wanita - RZM 090 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. <br/>Kode : RZM 090<br/>Warna : ORANGE KOMBINASI<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 500 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         Gudang : WRH-1<br>
+         Lokasi : Bandung</p>
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2019-01-17,html,dress-rajut,raindoz,dress-rajut,raindoz,"Dress Rajut Bahan RAJUT, Warna ORANGE KOMBINASI, Size AS",https://images.lipatan.com/katalog-raindoz-2019/foto-produk-satuan/rzm-090.jpg,-/-,-/-,-/-,-/-,-/-,Knit Casual Wanita - RZM 090,Rp 132.900,Rp 108.900,Rp 119.900,RZM 090,Baru
